@@ -4,13 +4,13 @@
 caralho porra fodase
 
 ## Dados Pessoais:
-CPF: XXXXXXX
+- CPF: XXXXXXX
 
-RG: XXXXXXX
+- RG: XXXXXXX
 
-Telefone: XXXXXXX
+- Telefone: XXXXXXX
 
-E-Mail: XXXXXXXX
+- E-Mail: XXXXXXXX
 
 ---
 
